@@ -1,0 +1,17 @@
+﻿  StringLibraryProject.cpp
+C:\Users\moham\source\repos\StringLibraryProject\StringLibraryProject\StringLibraryProject.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\moham\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(46,44): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'StringLibraryProject.cpp')
+  
+C:\Users\moham\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(68,34): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'StringLibraryProject.cpp')
+  
+C:\Users\moham\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(249,45): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'StringLibraryProject.cpp')
+  
+C:\Users\moham\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(286,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'StringLibraryProject.cpp')
+  
+C:\Users\moham\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(278,1): warning C4715: 'clsString::TrimLeft': not all control paths return a value
+C:\Users\moham\source\repos\StringLibraryProject\StringLibraryProject\clsString.h(293,1): warning C4715: 'clsString::TrimRight': not all control paths return a value
+  StringLibraryProject.vcxproj -> C:\Users\moham\source\repos\StringLibraryProject\x64\Debug\StringLibraryProject.exe
